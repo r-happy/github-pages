@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: black;
+    background: linear-gradient(#e66465, #9198e5);
+    color: white;
+}
+
+.hero_title {
+    text-align: center;
+    line-height: 100vh;
+    font-family: 'Leckerli One', cursive;
+    font-size: xx-large;
+}
